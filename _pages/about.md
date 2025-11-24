@@ -22,7 +22,7 @@ I am a Ph.D. candidate in Management Science and Engineering at Shanghai Univers
 My research interests include online learning, bandit problems, and learning in games.
 
 
-# 📝 Publications 
+# Publications 
 <div class='paper-box-text' markdown="1">
 
 
@@ -51,10 +51,10 @@ My research interests include online learning, bandit problems, and learning in 
 
 
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
+# Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Management Science and Engineering at Shanghai University of Finance and Economics, fortunately advised by Professor Pinyan Lu. Prior to this, I received my B.Sc. in Mathematics from Wuhan University in 2021. I am currently a visiting Ph.D. student at the University of Southern California, working with Professor Xiaotian Li. 
+I am a Ph.D. candidate in Management Science and Engineering at Shanghai University of Finance and Economics, fortunately advised by Professor Pinyan Lu. Prior to this, I received my B.Sc. in Mathematics from Wuhan University in 2021. I am currently a visiting Ph.D. student at the University of Southern California, working with Professor Haipeng Luo. 
 
 My research interests include online learning, bandit problems, and learning in games.
 
@@ -29,21 +29,21 @@ My research interests include online learning, bandit problems, and learning in 
 
 - [[NeurIPS 2025](https://arxiv.org/pdf/2505.17277) **Spotlight**] Comparator-Adaptive $\Phi$-Regret: Improved Bounds, Simpler Algorithms, and Applications to Games
 
-  **($\alpha-\beta$)** with Soumita Hait, Haipeng Luo and Mengxiao Zhang
+  **($\alpha-\beta$)** with Soumita Hait, Haipeng Luo, and Mengxiao Zhang
 
 - [[COLT 2025](https://arxiv.org/pdf/2502.12529)] Alternating Regret for Online Convex Optimization
 
 
-  **($\alpha-\beta$)** with Soumita Hait, Haipeng Luo and Mengxiao Zhang
+  **($\alpha-\beta$)** with Soumita Hait, Haipeng Luo, and Mengxiao Zhang
 
 - [[UAI 2024](https://arxiv.org/pdf/2406.10605)] Last-iterate Convergence Separation between Extra-gradient and Optimism in Constrained Periodic Games
 
-  **($\alpha-\beta$)** with Yi Feng, Ioannis Panageas and Xiao Wang
+  **($\alpha-\beta$)** with Yi Feng, Ioannis Panageas, and Xiao Wang
 
 
 - [[NeurIPS 2023](https://arxiv.org/pdf/2310.02604)] On the Last-iterate Convergence in Time-varying Zero-sum Games: Extra Gradient Succeeds where Optimism Fails
 
-  **($\alpha-\beta$)** with Yi Feng, Hu Fu, Qun Hu, Ioannis Panageas, Bo Peng and Xiao Wang
+  **($\alpha-\beta$)** with Yi Feng, Hu Fu, Qun Hu, Ioannis Panageas, Bo Peng, and Xiao Wang
 
 
 </div>

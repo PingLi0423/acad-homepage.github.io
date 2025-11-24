@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Management Science and Engineering at Shanghai University of Finance and Economics, fortunately advised by Professor Pinyan Lu. Prior to this, I received my B.Sc. in Mathematics from Wuhan University in 2021. I am currently a visiting Ph.D. student at the University of Southern California, working with Professor Xiaotian Li. My research interests include online learning, bandit problems, and learning in games.
+I am a Ph.D. candidate in Management Science and Engineering at Shanghai University of Finance and Economics, fortunately advised by Professor Pinyan Lu. Prior to this, I received my B.Sc. in Mathematics from Wuhan University in 2021. I am currently a visiting Ph.D. student at the University of Southern California, working with Professor Xiaotian Li. 
 
 My research interests include online learning, bandit problems, and learning in games.
 
@@ -36,7 +36,7 @@ My research interests include online learning, bandit problems, and learning in 
 
   **($\alpha-\beta$)** with Soumita Hait, Haipeng Luo and Mengxiao Zhang
 
-- [[UAI 2022](https://arxiv.org/pdf/2406.10605)] Last-iterate Convergence Separation between Extra-gradient and Optimism in Constrained Periodic Games
+- [[UAI 2024](https://arxiv.org/pdf/2406.10605)] Last-iterate Convergence Separation between Extra-gradient and Optimism in Constrained Periodic Games
 
   **($\alpha-\beta$)** with Yi Feng, Ioannis Panageas and Xiao Wang
 

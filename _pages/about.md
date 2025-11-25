@@ -53,8 +53,4 @@ My research interests include online learning, bandit problems, and learning in 
 
 # Honors and Awards
 - *2024.10* National Scholarship
-- *2024.07* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07* Outstanding Paper Award of the CCF National Conference on Theoretical Computer Science
